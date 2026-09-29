@@ -63,7 +63,7 @@ The main objectives of this project are:
 
 ------------------------------------------------------------------------
 
-## 6. Technologies Used
+## 4. Technologies Used
 
 -   **Python 3**
 -   **Pandas** -- used to read the CSV result file and export results to
@@ -75,7 +75,7 @@ The main objectives of this project are:
 
 ------------------------------------------------------------------------
 
-## 7. Project Structure
+## 5. Project Structure
 
 ``` text
 Python-Quiz-Application/
@@ -178,7 +178,7 @@ exported.
 
 ------------------------------------------------------------------------
 
-## 8. Application Workflow
+## 6. Application Workflow
 
 ``` text
                     START
@@ -228,7 +228,7 @@ exported.
 
 ------------------------------------------------------------------------
 
-## 12. Installation and Requirements
+## 7. Installation and Requirements
 
 ### Step 1: Install Python
 
@@ -271,7 +271,7 @@ The `quizresults.csv` file will be used to store results.
 
 ------------------------------------------------------------------------
 
-## 13. How to Run the Application
+## 8. How to Run the Application
 
 Open a terminal in the project folder and run:
 
@@ -295,7 +295,7 @@ application.
 
 ------------------------------------------------------------------------
 
-## 22. Learning Outcomes
+## 9. Learning Outcomes
 
 Through this project, the following concepts can be practiced:
 
@@ -316,7 +316,7 @@ Through this project, the following concepts can be practiced:
 
 ------------------------------------------------------------------------
 
-## 23. Conclusion
+## 10. Conclusion
 
 The **Python Quiz Application** demonstrates how basic Python
 programming concepts can be combined to create a complete console-based
@@ -330,7 +330,7 @@ authentication, and analytics in the future.
 
 ------------------------------------------------------------------------
 
-## 24. Author
+## 11. Author
 
 **Project:** Python Quiz Application\
 **Language:** Python\
